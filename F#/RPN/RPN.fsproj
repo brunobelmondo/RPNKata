@@ -48,7 +48,6 @@
   <ItemGroup>
     <Compile Include="RPNParser.fs" />
     <Compile Include="RPN.fs" />
-    <None Include="Script.fsx" />
     <Compile Include="RPNTests.fs" />
     <None Include="packages.config" />
   </ItemGroup>
